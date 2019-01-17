@@ -1,0 +1,21 @@
+tensorflow==1.4.0
+
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+
+https://github.com/tensorflow/models/issues/4223
+
+https://github.com/tensorflow/models/issues/4002
+
+sudo -H pip3 install pandas
+
+https://medium.freecodecamp.org/tracking-the-millenium-falcon-with-tensorflow-c8c86419225e
+
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
+https://www.youtube.com/watch?v=COlbP62-B-U
+
+https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
+
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html?fbclid=IwAR0FgvY7ZqCZMzNnbp909aZRzOldoQKJUSq0Oky5_okb_dfQbqG9fuaxQYg
+
+

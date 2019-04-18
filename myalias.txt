@@ -1,0 +1,11 @@
+ls -a
+.bashrc
+
+########### my alias ###############
+alias actualizar='echo sudo apt-get update && sudo apt-get update'
+alias autoremover='echo sudo apt-get autoremove && sudo apt-get autoremove'
+alias Tf0protoc='echo cd /home/mau/Mytest/TensorF/models/research && cd /home/mau/Mytest/TensorF/models/research'
+alias Tf1protoc='sed -n 2p /home/mau/Mytest/P_R_D/intruc.txt && sed -n 5p /home/mau/Mytest/P_R_D/intruc.txt'
+alias Tf2protoc='echo python3 object_detection/builders/model_builder_test.py && python3 object_detection/builders/model_builder_test.py'
+alias DN='cd /home/mau/Mytest/P_R_D'
+
